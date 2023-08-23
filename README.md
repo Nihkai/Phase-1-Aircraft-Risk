@@ -1,26 +1,28 @@
-![austin animal center](./images/Otto_Airplane.jpeg)
+![Otto the Autopilot](./images/Otto_Airplane.jpeg)
 
-# Austin Animal Center Needs Analysis
+# Aviation Data Project
 
-**Author**: [Alison Peebles Madigan](mailto:alison.peeblesmadigan@flatironschool.com)
+**"Don't Call Me Shirley"**
+
+**Authors**: [Rachel Goldstein](mailto:tristantrechsel@gmail.com), [Nick Kai](mailto:tristantrechsel@gmail.com), [Tristan Trechsel](mailto:tristantrechsel@gmail.com)
 
 ## Overview
 
-This project analyzes the resource needs of the [Austin Animal Center](https://www.austintexas.gov/department/aac) (AAC), which shelters 16,000 animals annually with a [No Kill policy](https://www.austintexas.gov/blog/no-kill-austin). Descriptive analysis of animal intake and outcome data shows that some animals require extended stays and that the number of sheltered animals varies seasonally. The Austin Animal Center can use this analysis to adjust outreach, hiring, and space utilization to improve resource allocation.
+This project analyzes [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board on flight incidents and accidents in the United States since 1962. A descriptive analysis points to some manufacturers having less severe accidents as a proportion of total accidents. Our company can use this information to make a more informed decision about which aircraft to invest in.
 
 ## Business Problem
 
-![img](./images/animals.png)
+![img](./images/Airplane_Window.jpg)
 
-The Austin Animal Shelter may be able to improve their resource allocation to both reduce costs and ensure that the center has staff and space to care for the animals brought to them. Doing so will allow the Austin Animal Shelter to better serve its clients while also freeing up resources to expand the scope of services they can offer.
+Our company intends to begin operating airplanes for commerical and private enterprise. Being unfamiliar with the risk involved with different airplanes, the new division head needs to know what manufacturers to steer clear of and what they can feel confident investing in.
 
 ## Data
 
-The Austin Animal Center has the longest running public dataset of animal rescues in the country. Every animal has a unique ID associated with both their [intake](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm) and [outcome](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238) data. The data files provide the dates and types of each event, as well as other animal characteristics (e.g. type, sex).
+The National Transportation Safety Board maintains records of all investigations into aircraft incidents and accidents in the United States since 1962. Each event has a unique ID associated with it. The data contains various information about the aircraft involved in the event, as well as the severity of the incident by numbers and types of injuries.
 
 ## Methods
 
-This project uses descriptive analysis, including description of trends over time. This provides a useful overview of AAC's typical intakes and outcomes to identify resource needs.
+UPDATE: This project uses descriptive analysis, including description of trends over time. This provides a useful overview of AAC's typical intakes and outcomes to identify resource needs.
 
 ## Results
 
@@ -54,7 +56,7 @@ See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.
 
 For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
 
-![logo](./images/aac_logo_tall.jpg)
+![logo](./images/NTSB_Logo.jpg)
 
 ## Repository Structure
 
