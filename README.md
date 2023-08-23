@@ -1,4 +1,4 @@
-![austin animal center](./images/austin-animal-center.jpg)
+![austin animal center](./images/Otto_Airplane.jpeg)
 
 # Austin Animal Center Needs Analysis
 
