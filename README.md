@@ -4,7 +4,7 @@
 
 **"Don't Call Me Shirley"**
 
-**Authors**: [Rachel Goldstein](mailto:tristantrechsel@gmail.com), [Nick Kai](mailto:tristantrechsel@gmail.com), [Tristan Trechsel](mailto:tristantrechsel@gmail.com)
+**Authors**: [Rachel Goldstein](mailto:rachelhgoldstein1@gmail.com), [Nick Kai](mailto:nhknicholas@gmail.com), [Tristan Trechsel](mailto:tristantrechsel@gmail.com)
 
 ## Overview
 
@@ -54,7 +54,7 @@ Further analyses could yield additional insights to further improve operations a
 
 See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
 
-For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
+For additional info, contact Rachel Goldstein at [rachelhgoldstein1@gmail.com](mailto:rachelhgoldstein1@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
 ![logo](./images/NTSB_Logo.jpg)
 
