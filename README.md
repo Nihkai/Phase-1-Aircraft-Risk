@@ -41,8 +41,8 @@ If you are a passenger on a Beech plane, there is a 14% chance of sustaining a s
 
 The dataset is mainly made up of planes with twin turbo fan engines.
 <p float="left">
-  <img src="./images/engine_count.png" width=35% height=35% /> 
-  <img src="./images/engine_type.png" width=50% height=50% />
+  <img src="./images/engine_count.png" width=25% height=40% /> 
+  <img src="./images/engine_type.png" width=70% height=70% />
 </p>
 
 ## Conclusions
@@ -75,9 +75,10 @@ For additional info, contact Rachel Goldstein at [rachelhgoldstein1@gmail.com](m
 ```
 ├── code
 │   ├── .DS_Store
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
+│   ├── Aviation_Data_Project_Notebook
+│   ├── Data_Cleaning.ipynb
+│   ├── EDA.ipynb
+│   └── Visualizations.ipynb
 ├── data
 │   ├── Aviation_Data.csv
 │   ├── Aviation_Data_Cleaned.csv
