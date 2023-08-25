@@ -64,7 +64,7 @@ We are left with a few more questions to pursue in the coming months.
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Aviation_Data_Project_Notebook.ipynb), review this [presentation](./Shirleys_Presentation.pdf), or take a look at our [Tableau Dashboard](https://public.tableau.com/views/DontCallMeShirleyDashboardAviationData/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+See the full analysis in the [Jupyter Notebook](./Aviation_Data_Project_Notebook.ipynb), review this [presentation](./Shirleys_Presentation.pdf), or take a look at our [Tableau Dashboard](https://public.tableau.com/views/DontCallMeShirleyDashboardAviationData/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 For additional info, contact Rachel Goldstein at [rachelhgoldstein1@gmail.com](mailto:rachelhgoldstein1@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
