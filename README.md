@@ -64,7 +64,7 @@ We are left with a few more questions to pursue in the coming months.
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Aviation_Data_Project_Notebook.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Aviation_Data_Project_Notebook.ipynb) or review this [presentation](./Shirleys_Presentation.pdf).
 
 For additional info, contact Rachel Goldstein at [rachelhgoldstein1@gmail.com](mailto:rachelhgoldstein1@gmail.com), Nick Kai at [nhknicholas@gmail.com](mailto:nhknicholas@gmail.com), or Tristan Trechsel at [tristantrechsel@gmail.com](mailto:tristantrechsel@gmail.com).
 
@@ -74,8 +74,7 @@ For additional info, contact Rachel Goldstein at [rachelhgoldstein1@gmail.com](m
 
 ```
 ├── code
-│   ├── .DS_Store
-│   ├── Aviation_Data_Project_Notebook
+│   ├── Aviation_Data_Project_Notebook2.ipynb
 │   ├── Data_Cleaning.ipynb
 │   ├── EDA.ipynb
 │   └── Visualizations.ipynb
@@ -88,6 +87,5 @@ For additional info, contact Rachel Goldstein at [rachelhgoldstein1@gmail.com](m
 ├── .gitignore
 ├── Aviation_Data_Project_Notebook.ipynb
 ├── README.md
-├── student.ipynb.pdf
-└── Presentation.pdf
+└── Shirleys_Presentation.pdf
 ```
